@@ -1,0 +1,10 @@
+#myCanvas{
+    border-color: black;
+    border-width: 5px;
+    border-style: ridge;
+}
+#backdrop{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
